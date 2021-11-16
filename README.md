@@ -1,14 +1,9 @@
 Election Analysis
 My summarized Analysis for the downloaded election data.
 
-<<<<<<< HEAD
 Project Overview
 An Electorate Board  has given me a data in csv file and asked me review, analyze and provide the following:
 =======
-Project Overview.
-Colorado Electorate Board has given me a data in csv file and asked me review, analyze and provide the following:
->>>>>>> e87cde2add059431924bf4c4d31e36b3304c8223
-
 Calculate the total number of votes cast.
 Get a complete list of candidates who received votes.
 Calculate the total number of votes each candidate received.
