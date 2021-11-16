@@ -34,13 +34,13 @@ Jefferson: 10.5% and 38,855 number of votes.
 Arapahoe: 6.7% and 24,801 number of votes.
 Denver: 82.8% and 306,055 number of votes.
 
-The candidates results were:
+The Candidates results were:
 Charles Casper Stockham received 23.0% of the votes and 85,313 number of votes.
 Raymon Anthony Doane received 3.1% of votes and 11,606 number of votes.
 Diana DeGette, received 73.8% of the votes and 272,892 number of votes.
 
 The Winner
-The winner of this election is Diana DeGette who is far up on results election and have more than 50% + 1 votes. The county of Denver had the largest number of votes with 306,055 votes that represents 82.8% of 369,711 number of votes.
+The winner of this election is Diana DeGette who is far up on results election and have more than 50% + 1 votes.The county of Denver had the largest number of votes with 306,055 votes that represents 82.8% of 369,711 number of votes.
 
 What are some limitations of this dataset.
-More information is needed to make more informed decision and provide feedback to my stakeholders. 
+More information is needed to make more informed decision and provide feedback to stakeholders. 
